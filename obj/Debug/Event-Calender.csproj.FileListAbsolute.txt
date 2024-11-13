@@ -1,0 +1,11 @@
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\bin\Debug\Event-Calender.exe.config
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\bin\Debug\Event-Calender.exe
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\bin\Debug\Event-Calender.pdb
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event-Calender.csproj.AssemblyReference.cache
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event_Calender.MainForm.resources
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event_Calender.Properties.Resources.resources
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event-Calender.csproj.GenerateResource.cache
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event-Calender.csproj.CoreCompileInputs.cache
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event-Calender.exe
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event-Calender.pdb
+C:\Users\pleed\Documents\GitHub\Personal Projects\Event-Calender\obj\Debug\Event_Calender.ucDay.resources
